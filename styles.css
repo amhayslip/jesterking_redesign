@@ -1,0 +1,100 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:700italic,400|Lobster+Two);
+@import url(http://fonts.googleapis.com/css?family=Sintony);
+@import url(http://fonts.googleapis.com/css?family=Sintony|Merriweather+Sans);
+
+
+
+/** {
+border: 1px solid red;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+}
+*/
+
+.top {
+	height: 180px;
+}
+
+.logo {
+  	text-align: center;
+  	margin-top: 10px;
+}
+.head {
+	background-color: black;
+}
+.nav {
+	padding-top: 66.5px;
+	font-size: 1.3em;
+	font-family: roboto condensed;
+	margin-top: 10px;
+}
+span {
+	padding-right: 10px;
+	padding-left: 10px;
+}
+/*.middle { 
+  background: url(images/jesterking.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 430px;
+}*/
+.middle {
+	height: 550px;
+	background-color: #575656
+}
+.weirdguy {
+	margin-top: 40px;
+}
+.bodytext {
+	margin-top: 80px;
+	color: #EAEBE7;
+	font-size: 1.1em;
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+
+
+.faq {
+	font-family: roboto condensed;
+	font-size: 1.2em;
+	margin-top: 3px;
+}
+
+.feature-dot {
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+    padding-top: 4px;
+    font-size: 22px;
+    float: left;
+    background: #8F969C;
+    border-radius: 50%;
+    color: white;
+    text-align: center;
+}
+
+.twitter {
+	margin-left: 15%;
+	margin-right: 10%;
+}
+.facebook {
+	margin-right: 10%;
+
+}
+.mail {
+
+}
+.social {
+	margin-top: 3px;
+}
+
+
+
+
+
+
+
